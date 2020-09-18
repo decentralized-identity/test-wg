@@ -1,6 +1,6 @@
 [![hackmd-github-sync-badge](https://hackmd.io/1YJZtSZgTjS4EwgS4aJs6Q/badge)](https://hackmd.io/1YJZtSZgTjS4EwgS4aJs6Q)
 
-![DIF](https://github.com/decentralized-identity/org/blob/master/Org%20documents/Brand%20materials/DIF%20Logo/DIF_logo_color_v1.png)
+![DIF](https://github.com/decentralized-identity/org/blob/master/Org%20documents/Brand%20materials/DIF%20Logo/DIF_logo_color_v1_small.png)
 
 # xxx Working Group Agenda & meeting minutes page__
 
