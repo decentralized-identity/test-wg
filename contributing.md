@@ -5,9 +5,9 @@
 # xxx Working Group Agenda & meeting minutes page__
 
 
-_Substantial participation in the working group is limited to those who joined DIF and signed the Working Group's Charter thus agreed to the intellectual property rights governing participation. More about it [here](https://identity.foundation/join)_
+_Substantial contribution to the working group's chartered work, including ideation, is limited to individuals and organizations that have joined the DIF and signed the Working Group's Charter, thus agreeing to the intellectual property rights governing participation. More on this process [here](https://identity.foundation/join)_
 
-_Observers are welcome to follow the work. Please note that your messages will be moderated._
+_Observers are warmly welcome to follow the work, read along, and learn about work before it released in an appropriate manner. Please note that working group participation by non-members may be moderated, whether in writing or on open calls, to enforce IPR policies and best practices._
 
 ---
 
@@ -20,11 +20,13 @@ __Time__ : Every Monday, 11:00-12:00 PT
 
 __Calendar entry + zoom link__ : [Link]()
 
- __Slack channel__ : [Link](). _Only for those who joined DIF [here](https://identity.foundation/join)_
+ __Slack channel (DIF members only)__ : [Link](). _Information about joining DIF can be found [here](https://identity.foundation/join)_
 
 __Recordings__ : [Link]()
 
 ---
+
+## Future events, deadlines, or agenda items
 
 # Meeting 2020-09-35 
 
